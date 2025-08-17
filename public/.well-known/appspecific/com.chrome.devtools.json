@@ -1,0 +1,12 @@
+{
+  "name": "NGFW Dashboard",
+  "version": "1.0.0",
+  "description": "Next Generation Firewall Dashboard - Security Management Interface",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}

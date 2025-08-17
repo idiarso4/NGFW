@@ -1,0 +1,17 @@
+# NGFW Dashboard - Security Application
+# This is a private security management interface
+# Not intended for public indexing
+
+User-agent: *
+Disallow: /
+
+# Security endpoints
+Disallow: /api/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /dashboard/
+
+# Static assets are allowed
+Allow: /favicon.ico
+Allow: /site.webmanifest
+Allow: /_next/static/

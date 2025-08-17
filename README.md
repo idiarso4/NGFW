@@ -250,5 +250,5 @@ Untuk pertanyaan atau dukungan, silakan buat issue di repository ini.
 
 ---
 
-**NGFW Dashboard** - Elegant Security Management Interface
+**NGFW Dashboard** - Elegant Security Management Interface - By Idiarso - Skansapung
 # NGFW
